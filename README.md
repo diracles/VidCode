@@ -1,4 +1,6 @@
-VidCode
-=======
+VideoCode
+=========
 
-A startup EDU prototype for kids to learn code through creative expression
+SUW Ed Team
+
+[http://vidcode.herokuapp.com/]([http://vidcode.herokuapp.com/])
